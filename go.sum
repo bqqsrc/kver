@@ -1,0 +1,10 @@
+github.com/bqqsrc/goper v0.0.1 h1:MnAZh01cMVS4I82gFCD5IbvIxVyj6Cl9b1j/m+Fgw6U=
+github.com/bqqsrc/goper v0.0.1/go.mod h1:6AfQAMlLGMPqnfyiNogdt3tvYHvvxvKkEzNYOJ/qh10=
+github.com/bqqsrc/imaper v0.0.1 h1:tZx9u3f6vYzhfm51ULZrSJeZe0Bx2eipN0bMxksgGVI=
+github.com/bqqsrc/imaper v0.0.1/go.mod h1:PWWFAmcoR5bU9g/JerpcKBr3kvtAsmir4L/cclQgdVw=
+github.com/bqqsrc/jsoner v0.0.1 h1:yqZNURzSdac1WeIgwVx8F6da/R0f7aG0PcPmMfrhaKw=
+github.com/bqqsrc/jsoner v0.0.1/go.mod h1:g8NWrDa5hFxvoIA2dathFYt23VucOfIVZ6Miz+Vp3/I=
+github.com/bqqsrc/loger v0.0.1 h1:4DhKQ/z7gHmx5ffugwIIOKXlF27tLN5bZnzRsZh9SjU=
+github.com/bqqsrc/loger v0.0.1/go.mod h1:vXYjMKpZJKyBj0/mYCVFN5/6y0OZMm5T4RkgnzIP3Ek=
+gopkg.in/ini.v1 v1.66.6 h1:LATuAqN/shcYAOkv3wl2L4rkaKqkcgTBQjOyYDvcPKI=
+gopkg.in/ini.v1 v1.66.6/go.mod h1:pNLf8WUiyNEtQjuu5G5vTm06TEv9tsIgeAvK8hOrP4k=
